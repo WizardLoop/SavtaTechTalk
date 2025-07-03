@@ -1,70 +1,70 @@
-# 👵💡 הסבר טכנולוגי בשפה של סבתא — SavtaTechTalk
+# 👵💡 Grandma Explains Tech — SavtaTechTalk
 
-**SavtaTechTalk** הוא מחולל אינטראקטיבי המפשט מונחים טכנולוגיים ומסביר אותם *“בשפה של סבתא”* — הומוריסטי, חמוד ופשוט, מותאם במיוחד למובייל ודסקטופ, בקוד פתוח וללא תלות בשרת.
-
----
-
-## ✨ איך זה עובד?
-
-1. כותבים מונח טכנולוגי (למשל: `AI`, `API`, `דוקר`, `בוט`).
-2. לוחצים “תסבירי לי, סבתא!”
-3. מקבלים הסבר משעשע ופשוט, בגובה העיניים — כאילו סבתא מסבירה לך.
+**SavtaTechTalk** is an interactive generator that explains complex tech terms in *“Grandma’s language”* — funny, cute, and simple. Fully responsive for mobile and desktop, open-source, and 100% serverless.
 
 ---
 
-## 🚀 התקנה מהירה
+## ✨ How does it work?
 
-1. [הורד את הקוד](https://github.com/WizardLoop/SavtaTechTalk/archive/refs/heads/main.zip)  
-   או  
+1. Type in any tech term (for example: `AI`, `API`, `Docker`, `bot`)
+2. Click “Explain it, Grandma!”
+3. Instantly get a playful, easy-to-understand explanation — just like Grandma would tell you.
+
+---
+
+## 🚀 Quick Start
+
+1. [Download the code](https://github.com/WizardLoop/SavtaTechTalk/archive/refs/heads/main.zip)  
+   or  
    `git clone https://github.com/WizardLoop/SavtaTechTalk.git`
 
-2. אין צורך בשרת!  
-   פשוט פתח את `index.html` בדפדפן שלך — זה הכל.
+2. No server required!  
+   Just open `index.html` in your browser — that’s it.
 
 ---
 
-## 📱 תצוגה (דמו)
+## 📱 Live Demo
 
-[לחץ כאן לראות דמו חי ב־GitHub Pages](https://wizardloop.github.io/SavtaTechTalk/)
-
----
-
-## 🧩 שימוש
-
-- כתוב או הדבק מונח — בעברית או באנגלית, בכל צורה נפוצה.
-- סבתא תמצא את ההסבר הכי מתאים (כולל ואריאציות נפוצות).
-- לא מצאת הסבר? אפשר להציע להוסיף דרך [Issues](https://github.com/WizardLoop/SavtaTechTalk/issues) או Pull Request.
+[Click here to see the live demo on GitHub Pages](https://wizardloop.github.io/SavtaTechTalk/)
 
 ---
 
-## 💡 איך תורמים?
+## 🧩 Usage
 
-1. אפשר להציע עוד מונחים/הסברים — פתחו Issue או שלחו Pull Request.
-2. קוד פתוח לכל! מוזמנים לשפר עיצוב, להוסיף דמויות, פונקציות נוספות, תמיכה במונחים חדשים.
-
----
-
-## 🏷️ רישוי
-
-הפרויקט מופץ תחת רישיון MIT  
-[ראה LICENSE](LICENSE)
+- Enter or paste any tech term — in Hebrew or English, in any common spelling.
+- Grandma will find the best explanation (including common variations!).
+- Didn’t find an explanation? Suggest new terms or explanations via [Issues](https://github.com/WizardLoop/SavtaTechTalk/issues) or a Pull Request.
 
 ---
 
-## 🙏 קרדיטים
+## 💡 How to contribute?
 
-- פיתוח: [WizardLoop](https://github.com/WizardLoop)
-- רעיון ועיצוב: סבתא וכל הנכדים הגיקים
+1. Suggest more terms or explanations — open an Issue or send a Pull Request.
+2. Open to everyone! Improve the design, add more “Grandma” characters, new features, or more term support.
 
 ---
 
-## 🌐 קישורים חשובים
+## 🏷️ License
 
-- [לפרויקט ב־GitHub](https://github.com/WizardLoop/SavtaTechTalk)
-- [דמו חי ב־GitHub Pages](https://wizardloop.github.io/SavtaTechTalk/)
-- [פתח Issue](https://github.com/WizardLoop/SavtaTechTalk/issues)
+This project is licensed under the MIT License.  
+[See LICENSE](LICENSE)
+
+---
+
+## 🙏 Credits
+
+- Developed by: [WizardLoop](https://github.com/WizardLoop)
+- Idea and design: Grandma and all her geeky grandkids
+
+---
+
+## 🌐 Important Links
+
+- [GitHub Repository](https://github.com/WizardLoop/SavtaTechTalk)
+- [Live Demo on GitHub Pages](https://wizardloop.github.io/SavtaTechTalk/)
+- [Open an Issue](https://github.com/WizardLoop/SavtaTechTalk/issues)
 - [LICENSE](LICENSE)
 
 ---
 
-*בהצלחה! וסבתא גאה בך! 👵🍪*
+*Good luck — and Grandma is proud of you! 👵🍪*
