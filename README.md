@@ -1,6 +1,6 @@
 # 👵💡 Grandma Explains Tech - SavtaTechTalk
 
-**SavtaTechTalk** is an interactive generator that explains complex tech terms in *“Grandma’s language”* — funny, cute, and simple. Fully responsive for mobile and desktop, open-source, and 100% serverless.
+**SavtaTechTalk** is an interactive generator that explains complex tech terms in *“Grandma’s language”* funny, cute, and simple. Fully responsive for mobile and desktop, open-source, and 100% serverless.
 
 ---
 
