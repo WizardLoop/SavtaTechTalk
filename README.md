@@ -39,7 +39,7 @@
 
 ## 💡 How to contribute?
 
-1. Suggest more terms or explanations — open an Issue or send a Pull Request.
+1. Suggest more terms or explanations - open an Issue or send a Pull Request.
 2. Open to everyone! Improve the design, add more “Grandma” characters, new features, or more term support.
 
 ---
@@ -67,4 +67,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Good luck — and Grandma is proud of you! 👵🍪*
+*Good luck - and Grandma is proud of you! 👵🍪*
