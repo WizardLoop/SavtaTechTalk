@@ -8,7 +8,7 @@
 
 1. Type in any tech term (for example: `AI`, `API`, `Docker`, `bot`)
 2. Click “Explain it, Grandma!”
-3. Instantly get a playful, easy-to-understand explanation — just like Grandma would tell you.
+3. Instantly get a playful, easy-to-understand explanation - just like Grandma would tell you.
 
 ---
 
@@ -19,7 +19,7 @@
    `git clone https://github.com/WizardLoop/SavtaTechTalk.git`
 
 2. No server required!  
-   Just open `index.html` in your browser — that’s it.
+   Just open `index.html` in your browser - that’s it.
 
 ---
 
