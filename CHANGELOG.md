@@ -1,14 +1,14 @@
-# 📒 CHANGELOG — SavtaTechTalk
+# 📒 CHANGELOG - SavtaTechTalk
 
 A log of new features, fixes, and improvements to the "Grandma Tech Explainer" project.
 
 ---
 
-## v1.0.0 – 2025-07-04
+## v1.0.0 - 2025-07-04
 
 - ✨ First public release!
 - 🎉 Fully responsive, mobile & desktop-friendly Hebrew interface
-- 👵 Large built-in library of “tech terms explained by Grandma” — supports both Hebrew and English terms
+- 👵 Large built-in library of “tech terms explained by Grandma” - supports both Hebrew and English terms
 - 🖱️ One-click explanations in a chat bubble design with Grandma’s icon
 - 🔎 Recognizes various spellings/variants in both languages
 - 🌐 Live demo via GitHub Pages
