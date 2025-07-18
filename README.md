@@ -31,7 +31,7 @@
 
 ## 🧩 Usage
 
-- Enter or paste any tech term — in Hebrew or English, in any common spelling.
+- Enter or paste any tech term - in Hebrew or English, in any common spelling.
 - Grandma will find the best explanation (including common variations!).
 - Didn’t find an explanation? Suggest new terms or explanations via [Issues](https://github.com/WizardLoop/SavtaTechTalk/issues) or a Pull Request.
 
